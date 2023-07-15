@@ -2,9 +2,9 @@ from setuptools import setup
 
 setup(
     name='tailwindpie',
-    version='0.1.0',
+    version='0.1.1',
     description='easiest way to configure tailwind in python',
-    url='https://github.com/Abdulmumin1/xologic',
+    url='https://github.com/Abdulmumin1/tailwindpie',
     author='Abdulmumin Abdulkarim',
     author_email='avdorr12345@gmail.com',
     license='BSD 2-clause',
